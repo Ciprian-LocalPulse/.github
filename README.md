@@ -25,7 +25,7 @@ I am dedicated to building impactful open-source tools and local-first solutions
 ### ☕ Support My Journey
 If my projects have saved you time or helped you build something cool, consider supporting my ongoing development efforts. Your support helps me keep the code updated, free, and accessible for everyone.
 
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](Support my Open Source projects https://www.paypal.com/ncp/payment/L5Q5EFJVVQGV4)
+[![Donate via PayPal](Support my Open Source projects https://www.paypal.com/ncp/payment/L5Q5EFJVVQGV4)](Support my Open Source projects https://www.paypal.com/ncp/payment/L5Q5EFJVVQGV4)
 
 ---
 *Built with ❤️ for the Open Source Community.*
