@@ -93,14 +93,14 @@ By centralizing community health standards and funding frameworks, we guarantee 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ciprian-LocalPulse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ciprian-LocalPulse&theme=github_dark" alt="GitHub Stats"/>
 <img height="160" src="https://streak-stats.demolab.com?user=Ciprian-LocalPulse&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciprian-LocalPulse&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=1800" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ciprian-LocalPulse&theme=github_dark" alt="Top Languages"/>
 
 </div>
 
