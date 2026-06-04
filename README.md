@@ -9,7 +9,7 @@
 <br/>
 
 <!-- PROFILE VIEWS + STARS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=ciprianlocalpulse&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ciprian-LocalPulse&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Stars](https://img.shields.io/github/stars/agentflow-enterprise?style=for-the-badge&color=FFD700&logo=github&label=ECOSYSTEM+STARS)
 ![Open Source](https://img.shields.io/badge/OPEN_SOURCE-MIT_Licensed-00d9ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
@@ -93,14 +93,14 @@ By centralizing community health standards and funding frameworks, we guarantee 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ciprianlocalpulse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ciprianlocalpulse&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ciprian-LocalPulse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Ciprian-LocalPulse&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciprianlocalpulse&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciprian-LocalPulse&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
 
 </div>
 
@@ -122,7 +122,7 @@ Whether you're looking to:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enterprise_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-ciprian-3885b6402/)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Core_Updates-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ciprianlocal)
-[![Polar](https://img.shields.io/badge/Polar.sh-Sponsor_Portal-6C63FF?style=for-the-badge&logo=polar&logoColor=white)](https://polar.sh/agentflow-enterprise)
+[![Polar](https://img.shields.io/badge/Polar.sh-Sponsor_Portal-6C63FF?style=for-the-badge&logo=polar&logoColor=white)](https://buy.polar.sh/polar_cl_JHhf8jKFJ9XNW09fbCSgaAoFqpuxnYW7h8elL3kBueb)
 
 </div>
 
@@ -223,7 +223,7 @@ Compliance:  GDPR · EU Company Law · International Standards
 
 ### Choose Your Channel
 
-[![Sponsor via Polar](https://img.shields.io/badge/⭐_SPONSOR_VIA_POLAR.SH-Enterprise_Portal-000000?style=for-the-badge&logo=polar&logoColor=white)]((https://buy.polar.sh/polar_cl_JHhf8jKFJ9XNW09fbCSgaAoFqpuxnYW7h8elL3kBueb))
+[![Sponsor via Polar](https://img.shields.io/badge/⭐_SPONSOR_VIA_POLAR.SH-Enterprise_Portal-000000?style=for-the-badge&logo=polar&logoColor=white)](https://buy.polar.sh/polar_cl_JHhf8jKFJ9XNW09fbCSgaAoFqpuxnYW7h8elL3kBueb)
 
 [![Donate via PayPal](https://img.shields.io/badge/💳_PAYPAL_ENTERPRISE-Instant_Transfer-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/L5Q5EFJVVQGV4)
 
